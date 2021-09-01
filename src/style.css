@@ -1,3 +1,7 @@
+h2{
+  text-align: center;
+}
+
 ul {
   display: flex;
   flex-direction: column;
@@ -53,6 +57,7 @@ input:focus {
 #completed {
   margin-top: 20px;
   cursor: pointer;
+  
 }
 
 span {
